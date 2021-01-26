@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+	font-family: sans-serif;
+}
+
+.carreau{
+	
+	font-size: 100%;
+	background-color: #FFEEFF;
+	border: solid #F973F9;
+	vertical-align: middle;
+	margin: 0 auto;
+	width: 450px;
+	height: 230px;
+}
+.carreau li{
+	margin-right: 50px;
+}
+mark{
+	
+	background-color: yellow;
+}
